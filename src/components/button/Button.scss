@@ -1,0 +1,32 @@
+.button-container {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+
+  .button-content {
+    text-decoration: none;
+
+    .button-text {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 173px;
+      height: 40px;
+      letter-spacing: 1px;
+      font-weight: bold;
+      color: #E5B44D;
+      background-color: white;
+      border-radius: 5px;
+      border: none;
+      cursor: pointer;
+      margin-top: 30px;
+    }
+
+    .button-text:hover {
+      background-color: #D57938;
+      color: #ffffff;
+      border-radius: 5px;
+    }
+  }
+
+}
