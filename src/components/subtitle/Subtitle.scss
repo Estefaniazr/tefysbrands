@@ -1,0 +1,18 @@
+.subtitle-container {
+  display: flex;
+
+  .subtitle-line {
+    width: 18.5px;
+    height: 9px;
+    border-bottom: 2px solid #1F3A35;
+    opacity: 0.3;
+  }
+
+  .subtitle-text {
+    padding-left: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #1F3A35;
+    opacity: 0.3;
+  }
+}

@@ -1,0 +1,28 @@
+.arrowLink-container {
+  text-decoration: none;
+  cursor: pointer;
+
+  .arrowLink-content {
+    display: flex;
+    padding-top: 30px;
+
+    .arrowLink-text {
+      font-size: 14px;
+      letter-spacing: 1px;
+      color: #E5B44D;
+      font-weight: bold;
+    }
+
+    .arrowLink-text:hover {
+      padding-right: 10px;
+    }
+
+    .arrowLink-arrow {
+      padding-left: 10px;
+    }
+
+    .arrowLink-arrow:hover {
+      padding-left: 20px;
+    }
+  }
+}

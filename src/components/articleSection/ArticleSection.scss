@@ -1,0 +1,34 @@
+.articleSection-external {
+  height: 636px;
+  width: 100%;
+
+  .articleSection-internal {
+    max-width: 1024px;
+    margin: auto;
+    padding-top: 110px;
+
+    .articleSection-container {
+      display: flex;
+      justify-content: space-between;
+
+      .articleSection-quote {
+        width: 590px;
+        color: #1F3A35;
+
+        .articleSection-question {
+          font-size: 24px;
+        }
+
+        .articleSection-answer {
+          display: flex;
+          font-size: 16px;
+          margin-top: 6px;
+        }
+      }
+    }
+  }
+}
+
+.articleSection-bold {
+  font-weight: bold;
+}

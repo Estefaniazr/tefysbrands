@@ -3,16 +3,16 @@ import Button from "../button/Button";
 import "./Intro.scss";
 
 const Intro = () => (
-    <div className="external">
-        <div className="internal">
+    <div className="intro-external">
+        <div className="intro-internal">
             <div className="intro-container">
-                <div className="subtitle">
+                <div className="intro-subtitle">
                     Branding and Web Design
                 </div>
-                <div className="title">
+                <div className="intro-title">
                     Creamos el branding que conecta contigo
                 </div>
-                <Button/>
+                <Button text="¡Cuéntame más!"/>
             </div>
         </div>
     </div>
