@@ -1,0 +1,866 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: 'Open Sans', sans-serif;
+	vertical-align: baseline;
+}
+
+.headerprincipal {
+	height: 476px;
+}
+
+	.menunav {
+		height: 70px;
+		margin-left: 30px;
+	}
+
+
+		.logo {
+			width: 174px;
+			height: 70px;
+			margin-top: -446px;
+		}
+
+		.menu {
+			margin-left: 584px;
+			margin-top: -55px;
+		}
+
+		.buttonhome {
+			font-family: 'Open Sans', sans-serif;
+			font-weight: 400;
+			letter-spacing: 1px;
+			width: 76px;
+			height: 39px;
+			color: white;
+			background: none;
+			background-color: none;
+			border: none;
+			cursor: pointer;
+		}
+
+		.buttonhome:hover {
+			background-color: none;
+			border-radius: 5px;
+			border: 1px solid #ffffff;
+		}
+
+		.buttonservices {
+			font-family: 'Open Sans', sans-serif;
+			font-weight: 400;
+			letter-spacing: 1px;
+			width: 197px;
+			height: 39px;
+			color: white;
+			background: none;
+			background-color: none;
+			border: none;
+			cursor: pointer;
+			margin-left: 10px;
+		}
+
+		.buttonservices:hover {
+			background-color: none;
+			border-radius: 5px;
+			border: 1px solid #ffffff;
+		}
+
+		.buttonportfolio {
+			font-family: 'Open Sans', sans-serif;
+			font-weight: 400;
+			letter-spacing: 1px;
+			width: 118px;
+			height: 39px;
+			color: white;
+			background: none;
+			background-color: none;
+			border: none;
+			cursor: pointer;
+			margin-left: 10px;
+		}
+
+		.buttonportfolio:hover {
+			background-color: none;
+			border-radius: 5px;
+			border: 1px solid #ffffff;
+		}
+
+		.buttonabout {
+			font-family: 'Open Sans', sans-serif;
+			font-weight: 400;
+			letter-spacing: 1px;
+			width: 160px;
+			height: 39px;
+			color: white;
+			background: none;
+			background-color: none;
+			border: none;
+			cursor: pointer;
+			margin-left: 10px;
+		}
+
+		.buttonabout:hover {
+			background-color: none;
+			border-radius: 5px;
+			border: 1px solid #ffffff;
+		}
+
+		.buttoncontact {
+			font-family: 'Open Sans', sans-serif;
+			font-weight: 400;
+			letter-spacing: 1px;
+			width: 115px;
+			height: 39px;
+			color: white;
+			background: none;
+			background-color: none;
+			border: none;
+			cursor: pointer;
+			margin-left: 10px;
+		}
+
+		.buttoncontact:hover {
+			background-color: none;
+			border-radius: 5px;
+			border: 1px solid #ffffff;
+		}
+
+		.buttones {
+			font-size: 14px;
+			height: 39px;
+			color: white;
+			background: none;
+			border: none;
+			cursor: pointer;
+			margin-left: 740px;
+			margin-top: -31px;
+		}
+
+		.buttones:hover {
+			font-weight: bold;
+		}
+
+		.buttonen {
+			font-size: 14px;
+			font-weight: 500;
+			height: 39px;
+			color: white;
+			background: none;
+			border: none;
+			cursor: pointer;
+			margin-left: 768px;
+			margin-top: -39px;
+		}
+
+		.buttonen:hover {
+			font-weight: bolder;
+		}
+
+	.centraltext {
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 110px;
+	}
+
+
+		.h2 {
+			font-size: 18px;
+			font-weight: 600;
+			color: white;
+			text-align: center;
+		}
+
+		.h1 {
+			font-family: 'Playfair Display', serif;
+			font-size: 60px;
+			font-weight: normal;
+			color: white;
+			text-align: center;
+			margin-top: 10px
+		}
+
+.section2 {
+	height: 256px;
+}
+
+	.textblock1 {
+		width: 600px;
+		margin-left: 90px;
+		margin-top: 110px;
+	}
+
+		.line {
+			width: 18.5px;
+			height: 2px;
+			border-bottom: 2px solid #1F3A35;
+			opacity: 0.3;
+		}
+
+		.titlesection{
+			font-size: 14px;
+			font-weight: bold;
+			color: #1F3A35;
+			opacity: 0.3;
+			margin-left: 28px;
+			margin-top: -11px;
+		}
+
+		.titletext{
+			font-size: 26px;
+			font-weight: bold;
+			color: #1F3A35;
+			margin-top: 32px;
+		}
+
+		.textdescription {
+			font-size: 16px;
+			color: #1F3A35;
+			margin-top: 28px;
+		}
+
+	.ilustration1 {
+		margin-left: 1162px;
+		margin-top: -292px;
+	}
+
+
+.section3 {
+	height: 447px;
+}
+
+	.box1 {
+		width: 380px;
+		height: 447px;
+		border-radius: 10px;
+		background-color: #ffffff;
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+	}
+
+		.pc {
+			margin-top: 40px;
+			margin-left: 40px;
+		}
+
+		.titlebox1 {
+			margin-top: -28px;
+			margin-left: 86px;
+			color: #1F3A35;
+			font-size: 14px;
+			letter-spacing: 1px;
+			font-weight: bold;
+		}
+
+		.textbox1 {
+			width: 253px;
+			margin-top: 24px;
+			margin-left: 86px;
+			color: #1F3A35;
+			font-size: 14px;
+			letter-spacing: 1px;
+		}
+
+	.box2 {
+		width: 380px;
+		height: 447px;
+		border-radius: 10px;
+		background-color: #ffffff;
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+		margin-left: 39px;
+	}
+
+		.pluma {
+			margin-top: 40px;
+			margin-left: 40px;
+		}
+
+		.titlebox2 {
+			margin-top: -34px;
+			margin-left: 86px;
+			color: #1F3A35;
+			font-size: 14px;
+			letter-spacing: 1px;
+			font-weight: bold;
+		}
+
+		.textbox2 {
+			width: 253px;
+			margin-top: 24px;
+			margin-left: 86px;
+			color: #1F3A35;
+			font-size: 14px;
+			letter-spacing: 1px;
+		}
+
+	.box3 {
+		width: 380px;
+		height: 447px;
+		border-radius: 10px;
+		background-color: #E5B44D;
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+		margin-left: 39px;
+	}
+
+		.box {
+			margin-top: 40px;
+			margin-left: 40px;
+		}
+
+		.titlebox3 {
+			margin-top: -30px;
+			margin-left: 86px;
+			color: #ffffff;
+			font-size: 14px;
+			letter-spacing: 1px;
+			font-weight: bold;
+		}
+
+		.textbox3 {
+			width: 253px;
+			margin-top: 24px;
+			margin-left: 86px;
+			color: #ffffff;
+			font-size: 16px;
+			letter-spacing: .5px;
+		}
+
+.section4 {
+	height: 282px;
+	background-color: #557A69;
+	margin-top: -100px;
+	z-index: -1;
+}
+
+	.textsection41 {
+		width: 611px;
+		margin-top: 170px;
+		text-align: center;
+		position: absolute;
+	}
+
+		.textpromo {
+			color: #ffffff;
+			font-size: 16px;
+			letter-spacing: .5px;
+		}
+
+		.buttonsection6 {
+			width: 240px;
+			height: 40px;
+			margin-top: 30px;
+			font-size: 14px;
+			letter-spacing: 1px;
+			font-weight: bold;
+			color: #ffffff;
+			background-color: #E5B44D;
+			border-radius: 5px;
+			border: none;
+			cursor: pointer;
+		}
+
+		.buttonsection6:hover {
+			background-color: #D57938;
+			color: #ffffff;
+			border-radius: 5px;
+		}
+
+.section5 {
+	height: 1677px;
+	background-color: #557A69;
+}
+
+	.textblocksection5 {
+		width: 550px;
+		margin-left: 90px;
+		margin-top: 110px;
+		position: absolute;
+	}
+
+		.linesection5 {
+			width: 18.5px;
+			height: 2px;
+			border-bottom: 2px solid #ffffff;
+			opacity: 0.3;
+		}
+
+		.titlesection5{
+			font-size: 14px;
+			font-weight: bold;
+			color: #ffffff;
+			opacity: 0.3;
+			margin-left: 28px;
+			margin-top: -11px;
+		}
+
+		.titletextsection5{
+			font-size: 26px;
+			font-weight: bold;
+			color: #ffffff;
+			margin-top: 32px;
+		}
+
+		.textdescription5 {
+			font-size: 16px;
+			color: #ffffff;
+			margin-top: 28px;
+		}
+
+		.ilustracion2{
+			margin-left: 1128px;
+		}
+
+	.textblock51 {
+		width: 380px;
+		margin-left: 530px;
+		margin-top: 50px;
+		position: absolute;
+	}
+
+		.titleblock51{
+			font-size: 24px;
+			font-weight: bold;
+			color: #ffffff;
+			opacity: 0.3;
+			margin-left: 0px;
+			margin-top: 0px;
+		}
+
+		.lineblock51 {
+			width: 18.5px;
+			height: 2px;
+			border-bottom: 2px solid #ffffff;
+			opacity: 0.3;
+		}
+
+		.titletextblock51{
+			font-size: 20px;
+			font-weight: bold;
+			color: #ffffff;
+			margin-top: 32px;
+		}
+
+		.textdescriptionblock51 {
+			font-size: 16px;
+			color: #ffffff;
+			margin-top: 28px;
+		}
+
+	.textblock52 {
+		width: 380px;
+		margin-left: 950px;
+		margin-top: 50px;
+		position: absolute;
+	}
+
+		.titleblock52{
+			font-size: 24px;
+			font-weight: bold;
+			color: #ffffff;
+			opacity: 0.3;
+		}
+
+		.lineblock52 {
+			width: 18.5px;
+			height: 2px;
+			border-bottom: 2px solid #ffffff;
+			opacity: 0.3;
+		}
+
+		.titletextblock52{
+			font-size: 20px;
+			font-weight: bold;
+			color: #ffffff;
+			margin-top: 32px;
+		}
+
+		.textdescriptionblock52 {
+			font-size: 16px;
+			color: #ffffff;
+			margin-top: 28px;
+		}
+
+	.textblock53 {
+		width: 380px;
+		margin-left: 530px;
+		margin-top: 425px;
+		position: absolute;
+	}
+
+		.titleblock53{
+			font-size: 24px;
+			font-weight: bold;
+			color: #ffffff;
+			opacity: 0.3;
+		}
+
+		.lineblock53 {
+			width: 18.5px;
+			height: 2px;
+			border-bottom: 2px solid #ffffff;
+			opacity: 0.3;
+		}
+
+		.titletextblock53{
+			font-size: 20px;
+			font-weight: bold;
+			color: #ffffff;
+			margin-top: 32px;
+		}
+
+		.textdescriptionblock53 {
+			font-size: 16px;
+			color: #ffffff;
+			margin-top: 28px;
+		}
+
+	.textblock54 {
+		width: 380px;
+		margin-left: 950px;
+		margin-top: 425px;
+		position: absolute;
+	}
+
+		.titleblock54{
+			font-size: 24px;
+			font-weight: bold;
+			color: #ffffff;
+			opacity: 0.3;
+		}
+
+		.lineblock54 {
+			width: 18.5px;
+			height: 2px;
+			border-bottom: 2px solid #ffffff;
+			opacity: 0.3;
+		}
+
+		.titletextblock54{
+			font-size: 20px;
+			font-weight: bold;
+			color: #ffffff;
+			margin-top: 32px;
+		}
+
+		.textdescriptionblock54 {
+			font-size: 16px;
+			color: #ffffff;
+			margin-top: 28px;
+		}
+
+	.boxblock5 {
+		width: 800px;
+		height: 322px;
+		border-radius: 10px;
+		background-color: #ffffff;
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+		margin-left: 530px;
+		margin-top: 948px;
+	}
+
+		.blockinsidebox{
+			width: 720px;
+			margin-top: 40px;
+			margin-left: 40px;
+			position: absolute;
+		}
+
+		.lineblock5 {
+			width: 18.5px;
+			height: 2px;
+			border-bottom: 2px solid #1F3A35;
+			opacity: 0.3;
+		}
+
+		.titleblock5{
+			font-size: 14px;
+			font-weight: bold;
+			color: #1F3A35;
+			opacity: 0.3;
+			margin-left: 28px;
+			margin-top: -11px;
+		}
+
+		.titletextblock5{
+			font-size: 26px;
+			font-weight: bold;
+			color: #1F3A35;
+			margin-top: 28px;
+		}
+
+		.textdescriptionblock5 {
+			font-size: 16px;
+			color: #1F3A35;
+			margin-top: 28px;
+		}
+
+		.buttonboxblock5 {
+			font-size: 16px;
+			letter-spacing: 1px;
+			font-weight: bold;
+			color: #E5B44D;
+			cursor: pointer;
+			margin-top: 36px;
+			margin-left: 560px;
+		}
+
+		.arrowboxblock5 {
+			cursor: pointer;
+			margin-left: 700px;
+			margin-top: -19px;
+		}
+
+		.arrowboxblock5:hover {
+			margin-left: 705px;
+		}
+
+	.ilustracion3{
+		margin-top: -778px;
+		position: absolute;
+	}
+
+
+.colorcontainer {
+	height: 390px;
+	background-color: #1F3A35;
+}
+
+	.titleposition{
+		width: 1260px;
+		margin-top: 80px;
+		margin-left: 90px;
+		position: absolute;
+	}
+
+		.titleslide{
+			text-align: center;
+			color: #ffffff;
+			opacity: 0.3;
+			font-size: 14px;
+			font-weight: bold;
+		}
+
+	.slideshowcointeiner{
+		width: 1260px;
+		height: 182px;
+		margin-top: 130px;
+		margin-left: 90px;
+		position: absolute;
+	}
+
+		.myslides {
+			padding: 80px;
+		}
+
+		.textslides{
+			font-size: 18px;
+			letter-spacing: 1px;
+			color: #ffffff;
+		}
+
+		/* Next & previous buttons */
+		.prev, .next {
+			position: absolute;
+			cursor: pointer;
+			padding: 16px;
+			color: #888;
+			font-weight: normal;
+			font-size: 20px;
+			border-radius: 0 3px 3px 0;
+		}
+
+		/* Position the "next button" to the right */
+		.next {
+			position: absolute;
+			right: 0;
+			border-radius: 3px 0 0 3px;
+		}
+
+		/* On hover, add a black background color with a little bit see-through */
+		.prev:hover, .next:hover {
+			background-color: rgba(0,0,0,0.8);
+			color: white;
+		}
+
+
+.footer {
+	height: 332px;
+}
+
+		.menufooter1 {
+			width: 175px;
+			margin-left: 90px;
+			margin-top: 87px;
+
+		}
+
+			.titlemenufooter1 {
+				font-size: 14px;
+				font-weight: bold;
+				color: #1F3A35;
+				margin-bottom: 30px;
+			}
+
+				.buttomhomefooter {
+					font-size: 14px;
+					color: #1F3A35;
+					margin-bottom: 20px;
+					cursor: pointer;
+				}
+
+				.buttomhomefooter:hover {
+					color: #E5B44D;
+					font-weight: bold;
+				}
+
+				.buttomservicesfooter {
+					font-size: 14px;
+					color: #1F3A35;
+					margin-bottom: 20px;
+					cursor: pointer;
+				}
+
+				.buttomservicesfooter:hover {
+					color: #E5B44D;
+					font-weight: bold;
+				}
+
+				.buttomportfoliofooter {
+					font-size: 14px;
+					color: #1F3A35;
+					margin-bottom: 20px;
+					cursor: pointer;
+				}
+
+				.buttomportfoliofooter:hover {
+					color: #E5B44D;
+					font-weight: bold;
+				}
+
+				.buttomaboutfooter {
+					font-size: 14px;
+					color: #1F3A35;
+					margin-bottom: 20px;
+					cursor: pointer;
+				}
+
+				.buttomaboutfooter:hover {
+					color: #E5B44D;
+					font-weight: bold;
+				}
+
+				.buttomcontactfooter {
+					font-size: 14px;
+					color: #1F3A35;
+					margin-bottom: 20px;
+					cursor: pointer;
+				}
+
+				.buttomcontactfooter:hover {
+					color: #E5B44D;
+					font-weight: bold;
+				}
+
+		.menufooter2 {
+			width: 320px;
+			margin-left: 320px;
+			margin-top: -244px;
+		}
+
+			.titlemenufooter2 {
+				font-size: 14px;
+				font-weight: bold;
+				color: #1F3A35;
+				margin-bottom: 20px;
+			}
+
+				.igicon {
+					width: 32px;
+					height: 32px;
+					cursor: pointer;
+				}
+
+				.fbicon {
+					width: 32px;
+					height: 32px;
+					cursor: pointer;
+					margin-left: 12px;
+				}
+
+				.emailfooter {
+					border: none;
+					background: none;
+					font-size: 14px;
+					letter-spacing: 1px;
+					font-weight: bold;
+					color: #E5B44D;
+					cursor: pointer;
+					margin-top: -32px;
+					margin-left: 100px;
+					position: absolute;
+				}
+
+			.titlemenufooter3 {
+				font-size: 14px;
+				font-weight: bold;
+				color: #1F3A35;
+				margin-top: 26px;
+			}
+
+				.textmenufooter3 {
+					font-size: 14px;
+					color: #1F3A35;
+					margin-top: 20px;
+					margin-bottom: 16px;
+				}
+
+				.emailform {
+					width: 200px;
+					border: none;
+					border-bottom: 1px solid #1F3A35;
+					color: #1F3A35;
+				}
+
+				.buttomsendemailform {
+					border: none;
+					background: none;
+					color: #E5B44D;
+					font-weight: bold;
+					letter-spacing: 1px;
+					cursor: pointer;
+					margin-left: 10px;
+				}
+
+				.arrowemailfooter {
+					cursor: pointer;
+					margin-left: 290px;
+					margin-top: -20px;
+				}
+
+				.arrowemailfooter:hover {
+					margin-left: 295px;
+				}
+
+		.logofooter {
+			width: 295px;
+			height: auto;
+			margin-left: 492px;
+			margin-top: -124px;
+			position: absolute;
+		}
+
+		.ilustrationfooter {
+			margin-left: 492px;
+			margin-top: -326px;
+		}

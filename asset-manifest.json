@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/tefysbrands/static/css/main.cf06c0fe.chunk.css",
+    "main.js": "/tefysbrands/static/js/main.5072376d.chunk.js",
+    "main.js.map": "/tefysbrands/static/js/main.5072376d.chunk.js.map",
+    "runtime-main.js": "/tefysbrands/static/js/runtime-main.0cf27aa2.js",
+    "runtime-main.js.map": "/tefysbrands/static/js/runtime-main.0cf27aa2.js.map",
+    "static/js/2.bef2f590.chunk.js": "/tefysbrands/static/js/2.bef2f590.chunk.js",
+    "static/js/2.bef2f590.chunk.js.map": "/tefysbrands/static/js/2.bef2f590.chunk.js.map",
+    "index.html": "/tefysbrands/index.html",
+    "precache-manifest.9f6b590ee6829f09de8fab5abe3cd667.js": "/tefysbrands/precache-manifest.9f6b590ee6829f09de8fab5abe3cd667.js",
+    "service-worker.js": "/tefysbrands/service-worker.js",
+    "static/css/main.cf06c0fe.chunk.css.map": "/tefysbrands/static/css/main.cf06c0fe.chunk.css.map",
+    "static/js/2.bef2f590.chunk.js.LICENSE.txt": "/tefysbrands/static/js/2.bef2f590.chunk.js.LICENSE.txt",
+    "static/media/arrow1.svg": "/tefysbrands/static/media/arrow1.c402ae28.svg",
+    "static/media/arrowW.svg": "/tefysbrands/static/media/arrowW.16c83e71.svg",
+    "static/media/bgFooter.svg": "/tefysbrands/static/media/bgFooter.250acdf5.svg",
+    "static/media/bgFooter.png": "/tefysbrands/static/media/bgFooter.2c9e6be7.png",
+    "static/media/box.svg": "/tefysbrands/static/media/box.95ddabba.svg",
+    "static/media/checktransCustomers.jpg": "/tefysbrands/static/media/checktransCustomers.e57893c9.jpg",
+    "static/media/fb.svg": "/tefysbrands/static/media/fb.f300a7e0.svg",
+    "static/media/feather.svg": "/tefysbrands/static/media/feather.12fe3c7b.svg",
+    "static/media/ig.svg": "/tefysbrands/static/media/ig.20b90a2a.svg",
+    "static/media/img1.svg": "/tefysbrands/static/media/img1.e93f1736.svg",
+    "static/media/img2.svg": "/tefysbrands/static/media/img2.84fdf437.svg",
+    "static/media/Intro.scss": "/tefysbrands/static/media/mainImg.0664e24d.svg",
+    "static/media/mainImg.png": "/tefysbrands/static/media/mainImg.abb73c3f.png",
+    "static/media/pc.svg": "/tefysbrands/static/media/pc.db354023.svg",
+    "static/media/profilePhoto.png": "/tefysbrands/static/media/profilePhoto.becf886d.png",
+    "static/media/sherpaCustomers.jpg": "/tefysbrands/static/media/sherpaCustomers.03f9990a.jpg",
+    "static/media/supraCustomers.jpg": "/tefysbrands/static/media/supraCustomers.5bcb937a.jpg",
+    "static/media/whiteLogo.svg": "/tefysbrands/static/media/whiteLogo.1a2900e1.svg",
+    "static/media/yellowLogo.svg": "/tefysbrands/static/media/yellowLogo.7b519d55.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cf27aa2.js",
+    "static/js/2.bef2f590.chunk.js",
+    "static/css/main.cf06c0fe.chunk.css",
+    "static/js/main.5072376d.chunk.js"
+  ]
+}
